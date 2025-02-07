@@ -1,7 +1,7 @@
 # database-migration-task
 
 # 1. create MySQL in aws using rds source and destination.
-![alt text](https://github.com/praveenmethraskar/database-migration-task/blob/main/database using rds.jpg?raw=true)
+![alt text](https://github.com/praveenmethraskar/database-migration-task/blob/main/database-using-rds.jpg.jpg?raw=true)
 
 # 2. create two ec2 instances source and destination and connect to rds database.
 # 3. install aws cli in two ec2 servers and aws configure
