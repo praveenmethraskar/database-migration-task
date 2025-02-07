@@ -58,7 +58,7 @@ SELECT * FROM users;
 ![alt text](https://github.com/praveenmethraskar/database-migration-task/blob/main/source-database.jpg?raw=true)
 
 # target database
-[alt text](https://github.com/praveenmethraskar/database-migration-task/blob/main/target-database.jpg?raw=true)
+![alt text](https://github.com/praveenmethraskar/database-migration-task/blob/main/target-database.jpg?raw=true)
 
 
 
